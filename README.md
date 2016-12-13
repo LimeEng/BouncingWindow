@@ -1,2 +1,2 @@
 # BouncingWindow
-A quick and fun experiment to try out scala and ScalaFX
+A quick and fun experiment to try out Scala and ScalaFX
