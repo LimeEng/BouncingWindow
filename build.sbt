@@ -31,8 +31,6 @@ libraryDependencies += "org.scalafx" %% "scalafx" % "8.0.192-R14"
 // libraryDependencies += "org.scalafx" %% "scalafx" % "8.0.192-R14"
 // libraryDependencies += "org.scalafx" % "scalafx_2.12.0-RC2" % "8.0.102-R11" // <- This one should be the correct one
 
-libraryDependencies += "org.scala-lang" % "scala-reflect" % scalaVersion.value
-
 // Here, `libraryDependencies` is a set of dependencies, and by using `+=`,
 // we're adding the scala-parser-combinators dependency to the set of dependencies
 // that sbt will go and fetch when it starts up.
