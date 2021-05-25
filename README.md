@@ -1,4 +1,4 @@
-![CI status](https://github.com/LimeEng/bouncing-window/workflows/CI/badge.svg)
+![CI status](https://github.com/LimeEng/BouncingWindow/workflows/CI/badge.svg)
 
 # BouncingWindow
 A quick and fun experiment to try out Scala and ScalaFX
